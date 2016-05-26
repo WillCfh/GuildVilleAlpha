@@ -1,0 +1,26 @@
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/classes.dex : \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/classes/com/mycompany/mygame/BuildConfig.class \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/classes/com/mycompany/mygame/MainActivity.class \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/classes/com/mycompany/mygame/R$attr.class \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/classes/com/mycompany/mygame/R$drawable.class \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/classes/com/mycompany/mygame/R$layout.class \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/classes/com/mycompany/mygame/R$string.class \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/classes/com/mycompany/mygame/R.class \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/jME3-jogg-3e4f39dee668b8ec13b8a044a6368d2f.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/jME3-android-a26a9dc105998c2cf7ec0ef5026409a3.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/jME3-plugins-faa9eb6acf6350177cdf01267b95fb2c.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/nifty-default-controls-1d41bc9724ce96c9fa56a005b4fff5bf.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/jME3-niftygui-991a4802f73df3a0facffaab0bd28acd.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/jME3-core-12e7a17aaad3630eb23e2d8e9beec5ac.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/MyGame-80b48531d314094edee8c1e0d7dc7658.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/annotations-7c05c890655267132cf9b019e117b844.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/j-ogg-vorbisd-9c9f6c2867dc438bdd676be0ae01c82c.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/nifty-style-black-673ef2bc835f2b554663d86090f032c4.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/j-ogg-oggd-7e973136a3acbfd208573eb820eede1e.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/eventbus-b56c5cf31efabefb664f5754e5be52b1.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/jME3-bullet-b885903bc3e9a286d33fe838bc6ff9a7.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/jME3-terrain-0a614a7c086bf47eecb63d3643e4765a.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/jME3-effects-c2328182588497d46628875f74fa04b0.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/xmlpull-xpp3-cbcb9eb40d2a17b5ac22bde2059515d3.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/jME3-networking-8efc98f33c2946e71592fc31dc24da1e.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/dexedLibs/nifty-4cc337ec8bce38b0e8391a553113f4e4.jar \

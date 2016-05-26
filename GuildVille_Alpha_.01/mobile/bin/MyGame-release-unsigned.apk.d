@@ -1,0 +1,23 @@
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/MyGame-release-unsigned.apk : \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/MyGame.ap_ \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/bin/classes.dex \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/jME3-jogg.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/jME3-android.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/jME3-plugins.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/nifty-default-controls.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/jME3-niftygui.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/jME3-core.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/MyGame.jar \
+/media/william/6F83BFEC5F9CAEA8/A-SDK/android-sdk-linux/tools/support/annotations.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/j-ogg-vorbisd.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/nifty-style-black.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/j-ogg-oggd.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/eventbus.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/jME3-bullet.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/jME3-terrain.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/jME3-effects.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/xmlpull-xpp3.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/jME3-networking.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/nifty.jar \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/armeabi/libbulletjme.so \
+/media/william/6F83BFEC5F9CAEA8/Projects/GuildVille_Alpha_.01/mobile/libs/armeabi-v7a/libbulletjme.so \
